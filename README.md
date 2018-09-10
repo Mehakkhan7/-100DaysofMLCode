@@ -6,7 +6,7 @@ Today's Progress : Started with Tenserflow
 
 Link of Work : https://www.tensorflow.org/tutorials/  
 
-Day 0 : September 10, 2018
+Day 1 : September 10, 2018
 
 Today's Progress : Learned about simple data curation practices
 
