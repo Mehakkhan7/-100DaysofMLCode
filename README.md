@@ -20,3 +20,6 @@ Day 6 : September 14, 2018
 
 Today's Progress : Configured Tensorflow on windows
 
+Day 7-12 : September 15-20, 2018
+
+Today's Progress : Practiced different DL models and read papers about it (CNN, RNN, LSTM)
