@@ -26,8 +26,8 @@ Today's Progress : Practiced different DL models and read papers about it (CNN, 
 
 Day 13-22 : September 21-30, 2018
 
-Today's Progress : 1. Learned different concepts to improve Time Series Classification by reading top journal/Conference research papers.
+Today's Progress : 1. Learned different concepts to improve Time Series Classification by reading top journal/Conference research papers
 
-                   2. Praticed DL. 
-                   
-                   Source: deeplearning.ai on Coursera
+2. Praticed DL
+
+Source: deeplearning.ai on Coursera
