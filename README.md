@@ -28,6 +28,6 @@ Day 13-22 : September 21-30, 2018
 
 Progress : 1. Learned different concepts to improve Time Series Classification by reading top journal/Conference research papers
 
-2. Praticed DL
+2. Practiced DL
 
 Source: deeplearning.ai on Coursera
